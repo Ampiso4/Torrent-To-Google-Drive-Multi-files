@@ -4,5 +4,8 @@
     },
     {
         "link" : "magnet:?xt=urn:btih:M5C63UDJ3TESNB6QPJPYX7RLDZY5ZS7O&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://explodie.org:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.internetwarriors.net:1337/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://9.rarbg.to:2740/announce&tr=udp://9.rarbg.com:2770/announce&tr=http://1337.abcvg.info/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=http://tracker.bt4g.com:2095/announce&tr=udp://opentor.org:2710/announce&tr=udp://www.torrent.eu.org:451/announce&tr=udp://retracker.lanta-net.ru:2710/announce"
+    },
+    {
+        "link" : "just add your magnet link here or create multiple list as you want "
     }
 ]
